@@ -34,13 +34,13 @@
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 11 Contributions in the Year 2020
  > 
-> 📦 64 Bytes Used in Github's Storage 
+> 📦 73 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
