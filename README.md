@@ -40,7 +40,7 @@
 
 > 🏆 0 Contributions in the Year 2021
  > 
-> 📦 354 Bytes Used in Github's Storage 
+> 📦 356 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,16 +77,13 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C#                       1 min               ██████████████░░░░░░░░░░░   57.94% 
-SQL                      0 secs              ███████░░░░░░░░░░░░░░░░░░   28.28% 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.78%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 min               ██████████████████░░░░░░░   71.72% 
-Ssms                     0 secs              ███████░░░░░░░░░░░░░░░░░░   28.28%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,5 +100,5 @@ CSS                      2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Celerian/Celerian/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/06/2021
+ Last Updated on 25/06/2021
 <!--END_SECTION:waka-->
