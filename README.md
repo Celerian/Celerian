@@ -34,13 +34,13 @@
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 0 Contributions in the Year 2021
  > 
-> 📦 341 Bytes Used in Github's Storage 
+> 📦 343 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,13 +77,15 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      2 mins              █████████████████████████   100.0% 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Ssms                     2 mins              █████████████████████████   100.0% 
+Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -100,5 +102,5 @@ CSS                      2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Celerian/Celerian/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2021
+ Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
