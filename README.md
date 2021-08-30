@@ -40,7 +40,7 @@
 
 > 🏆 0 Contributions in the Year 2021
  > 
-> 📦 358 Bytes Used in Github's Storage 
+> 📦 359 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +90,8 @@ Windows                  0 secs              ░░░░░░░░░░░�
 **I Mostly Code in CSS** 
 
 ```text
-CSS                      2 repos             █████████████████████████   100.0%
+CSS                      2 repos             ████████████████░░░░░░░░░   66.67% 
+C#                       1 repo              ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
@@ -100,5 +101,5 @@ CSS                      2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/Celerian/Celerian/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/08/2021
+ Last Updated on 30/08/2021
 <!--END_SECTION:waka-->
