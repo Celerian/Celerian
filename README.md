@@ -40,7 +40,7 @@
 
 > 🏆 0 Contributions in the Year 2021
  > 
-> 📦 376 Bytes Used in Github's Storage 
+> 📦 378 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,5 +101,5 @@ C#                       1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/Celerian/Celerian/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/09/2021
+ Last Updated on 12/09/2021
 <!--END_SECTION:waka-->
